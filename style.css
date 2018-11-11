@@ -1,0 +1,95 @@
+.Header {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+    color: #777; 
+    background-color: #ebebeb; 
+    font-size: 18px; 
+    width: 960px; 
+    text-align: center; 
+    margin-top: 0px;
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 40px;
+    }
+
+.Nav {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+    color: #777; 
+    background-color: #ebebeb; 
+    font-size: 18px; 
+    width: 960px; 
+    text-align: center; 
+    margin-top: -15px;
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 40px
+}    
+
+.SectionBox {
+    background-color: #ebebeb; 
+    font-size: 18px; 
+    width: 35%; 
+    text-align: center; 
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+    color: #777; 
+    padding: 30px; 
+    margin-left: 240px; 
+    float: left; 
+    margin-right: 20px;
+    margin-top: -3px;
+    }
+
+.Aside {
+    width: 15%; 
+    float: left;
+    font-size: 18px; 
+    color: #777; 
+    background-color: #ebebeb; 
+    padding: 100px; 
+    padding-top: 50px; 
+    padding-bottom: 255px; 
+    margin-top: -3px;
+    text-align: center;
+    .clearfix::after {content: ""; display: block; clear: both;}
+}    
+
+.ArticleBox {
+    color: #ebebeb; 
+    background-color: #777; 
+    padding: 20px; 
+    padding-top: 2px; 
+    margin-left: -18px; 
+    margin-right: -18px; 
+    margin-bottom: -18px;
+}    
+
+.H123 {
+    color: #777; 
+    background-color: #ebebeb; 
+    padding-bottom: 20px; 
+    padding-top: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.P {
+    color: #777; 
+    background-color: #ebebeb; 
+    padding-top: 20px; padding-bottom: 20px; 
+    margin-top: -15px; 
+    margin-bottom: 0px;
+    margin-left: 0px; 
+    margin-right: 0px;
+}
+
+.footer {
+    color: #777;
+    background-color: #ebebeb; 
+    width: 960px; 
+    text-align: center; 
+    font-size: 18px; 
+    width: 960px;
+    clear: both;
+    margin-left: auto; 
+    margin-right: auto;   
+    padding: 40px;  
+}    
